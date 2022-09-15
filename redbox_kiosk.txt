@@ -1,0 +1,10 @@
+Title                       Available               Rented
+-----------------------------------------------------------
+Alien                       44                      14                       
+Dracula                     1                       0                        
+Frankenstein                12                      10                       
+Happy Gilmore               0                       10                       
+MacBeth                     44                      1                        
+SpongeBob:The Movie         40                      0                        
+Test                        5                       10                       
+Test2                       0                       0                        
